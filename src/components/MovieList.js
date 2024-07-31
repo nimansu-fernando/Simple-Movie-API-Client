@@ -37,9 +37,7 @@ const MovieList = () => {
       <Typography variant="h4" component="h1" gutterBottom>
         Movies
       </Typography>
-      <Button variant="contained" color="primary" component={Link} to="/movies/new" sx={{ marginBottom: '20px' }}>
-        Add Movie
-      </Button>
+      
       <Grid container spacing={4}>
         {movies.map((movie) => (
           <Grid item key={movie.Id} xs={12} sm={6} md={4}>
