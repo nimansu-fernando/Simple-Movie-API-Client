@@ -1,6 +1,4 @@
-# Simple-Movie-API-Client
-
-# Movie Management Client
+# Simple-Movie-API-Client - Movie Management Client
 
 This repository contains the client-side code for a movie management application. Built with React and Material-UI, the application allows users to view, add, edit, and delete movies.
 
